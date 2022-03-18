@@ -1,8 +1,9 @@
 # visualCode---Latex-Workshop-
 Instruction on how to use VSCode in order to use Latex (TeXLive)
 
-1. Using keyboard shortcut (ctrl/cmd+,) to quick open Settings;
-2. Add the following .json code into the Settings:
+1. Add the extension LaTeX Workshop to VSCode
+2. Using keyboard shortcut (ctrl/cmd+,) to quick open Settings;
+3. Add the following .json code into the Settings:
 
 {
     
