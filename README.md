@@ -207,3 +207,5 @@ Instruction on how to use VSCode in order to use Latex (TeXLive)
     ],
     "latex-workshop.latex.recipe.default": "pdflatex",
 }
+
+4. Restart VSCode !
